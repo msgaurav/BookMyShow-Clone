@@ -8,7 +8,7 @@ A Front Page Clone of BookMyShow.
     ```
     $ git clone https://github.com/msgaurav/BookMyShow-Clone
     ```
-  * If downloaded, unzip and open **main.html** file in a browser.
+  * If downloaded, unzip and open **index.html** file in a browser.
   
   ### Skills Used
   * HTML5
