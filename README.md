@@ -15,5 +15,5 @@ A Front Page Clone of BookMyShow.
   * CSS3
   * Bootstrap 4
   
-#### Notes
-  * I do not own any copyrights, all the rights go to their respective owners. Thank You. :smiley:
+#### Note
+  * I do not own any copyrights, all the rights go to their respective owners. Thank You.:smiley:
